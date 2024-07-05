@@ -3,10 +3,6 @@ import 'package:comics_reader_test_app/image_gallery.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-  // EmojiGifPickerPanel.setup(
-  //   giphyApiKey: "iAvrIIhwmqh7L4ULCeoI6gYYl1TxsAvt",
-  //   mode: Mode.light,
-  // );
   runApp(const PhotoViewApp());
 }
 
